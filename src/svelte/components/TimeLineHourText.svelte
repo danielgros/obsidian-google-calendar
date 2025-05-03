@@ -5,7 +5,7 @@
     const plugin = GoogleCalendarPlugin.getInstance();
     let hourFormat = plugin.settings.timelineHourFormat;
 
-    export let height = 700;
+    export let height = 1500;
     export let hourRange = [0, 24];
 
     const switchHourDisplay = () => {

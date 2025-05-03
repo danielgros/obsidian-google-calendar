@@ -13,7 +13,7 @@
 	import GoogleCalendarPlugin from '../../GoogleCalendarPlugin';
 	import EventBox from './EventBox.svelte';
 
-	export let height = 1000;
+	export let height = 1500;
 	export let width = 300;
 	export let events: GoogleEvent[];
 	export let day;
